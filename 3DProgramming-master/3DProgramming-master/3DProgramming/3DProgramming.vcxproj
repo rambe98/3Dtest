@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3DProgramming.cpp" />
+    <ClCompile Include="MuSoenMath.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
